@@ -1,0 +1,7 @@
+# data is never committed (Kaggle licence + 150 MB file)
+data/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
