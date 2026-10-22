@@ -1,0 +1,4 @@
+split,rows,frauds,fraud_rate_pct
+train,170235,284,0.1668
+val,56745,94,0.1657
+test,56746,95,0.1674

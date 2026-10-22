@@ -1,0 +1,17 @@
+{
+  "rows": 284807,
+  "columns": 31,
+  "frauds": 492,
+  "fraud_rate_pct": 0.1727,
+  "missing_values": 0,
+  "exact_duplicate_rows": 1081,
+  "exact_duplicate_frauds": 19,
+  "feature_groups_with_conflicting_labels": 0,
+  "time_min_s": 0.0,
+  "time_max_s": 172792.0,
+  "amount_min": 0.0,
+  "amount_median": 22.0,
+  "amount_max": 25691.16,
+  "rows_after_dedup": 283726,
+  "frauds_after_dedup": 473
+}
