@@ -1,0 +1,7 @@
+{
+  "rule": "max recall with precision >= 0.8 on validation",
+  "thresholds": {
+    "logreg_balanced": 0.9999914785309189,
+    "xgb_best": 0.09391758590936661
+  }
+}
